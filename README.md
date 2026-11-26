@@ -113,7 +113,15 @@ A small automation project focused on collecting and organising job information 
 
 *Python · GitHub Actions · Excel*
 
-### <img src="https://img.shields.io/badge/04-Learning_Roadmap-fce6ef?style=flat-square" alt="04 Learning Roadmap"/>
+### <img src="https://img.shields.io/badge/04-Packaging_Data_Quality-f8dfeb?style=flat-square" alt="04 Packaging Data Quality"/>
+
+**[Packaging Data Cleaning & Reporting](https://github.com/siddhigauns0110-svg/Packaging-Data-Cleaning-Reporting)**
+
+A synthetic-data project that cleans packaging component records, standardises material names, converts weights into grams, reconciles supplier data, and flags missing or mismatched information. It includes a repeatable Python/Pandas workflow, SQL checks in SQLite, a Power Query M example, and a Power BI reporting guide.
+
+*Python · Pandas · SQL · SQLite · Power Query · Power BI · Data Quality · Reconciliation*
+
+### <img src="https://img.shields.io/badge/05-Learning_Roadmap-fce6ef?style=flat-square" alt="05 Learning Roadmap"/>
 
 **[Data Projects & Learning Roadmap](https://github.com/siddhigauns0110-svg/Data)**
 
