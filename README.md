@@ -144,6 +144,14 @@ Before that, I also had exposure to network operations. That experience added to
 - Exploring data analytics, automation, and practical AI applications.
 - Connecting the dots between networking, integrations, and software.
 
+## 🌐 Personal website
+
+A responsive portfolio site with a pink-chrome / after-hours aesthetic, custom sports-car illustration, technical work, projects, and personal interests. The source is in this repository:
+
+- [Open the website source](./index.html)
+- [View the styling](./styles.css)
+- [Read the deployment guide](./DEPLOY.md)
+
 ## 📈 My GitHub corner
 
 <div align="center">
