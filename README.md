@@ -124,6 +124,7 @@ Agnel Institute of Technology and Design (AITD), Goa
 ## 🤝 Let's Connect
 
 - **GitHub:** [@siddhigauns0110-svg](https://github.com/siddhigauns0110-svg)
+- **LinkedIn:** [Siddhi Gauns](https://www.linkedin.com/in/siddhi-gauns-70622a24a/)
 
 I'm always interested in learning, collaborating, and connecting with people working in software, APIs, data, and emerging technologies.
 
