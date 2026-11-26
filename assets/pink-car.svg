@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="title desc">
+<title id="title">Pink chrome sports car</title><desc id="desc">Stylised side view of a low pink sports car with chrome highlights and dark wheels.</desc>
+<defs>
+ <linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe8f0"/><stop offset=".3" stop-color="#efb2cb"/><stop offset=".62" stop-color="#cf83a7"/><stop offset="1" stop-color="#8d557d"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4c3b56"/><stop offset=".55" stop-color="#9c87a5"/><stop offset="1" stop-color="#e5b8ce"/></linearGradient>
+ <linearGradient id="chrome"><stop stop-color="#fff"/><stop offset=".45" stop-color="#b7a6b9"/><stop offset=".7" stop-color="#fff"/><stop offset="1" stop-color="#9b829d"/></linearGradient>
+ <radialGradient id="wheel"><stop offset="0" stop-color="#e5dce6"/><stop offset=".18" stop-color="#807184"/><stop offset=".2" stop-color="#332a3b"/><stop offset=".75" stop-color="#17151f"/><stop offset="1" stop-color="#6f596f"/></radialGradient>
+ <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="13"/></filter>
+</defs>
+<ellipse cx="460" cy="384" rx="350" ry="24" fill="#6b4869" opacity=".2" filter="url(#shadow)"/>
+<!-- rear spoiler and body silhouette -->
+<path d="M133 280l-18-52 12-8 23 47 49 9-4 22-58 2z" fill="#8d5b7c"/>
+<path d="M120 298c24-31 67-52 131-66l101-101c23-24 54-38 91-39l143 3c38 1 71 16 96 44l69 80c52 13 82 30 93 58l-9 41-65 12H155l-43-25z" fill="url(#body)" stroke="#865776" stroke-width="7" stroke-linejoin="round"/>
+<!-- roof / windows -->
+<path d="M295 224l77-78c20-20 44-31 76-32l132 4c28 1 52 13 72 35l59 69-416 2z" fill="url(#glass)" stroke="#805d83" stroke-width="6" stroke-linejoin="round"/>
+<path d="M440 119l-8 104M579 121l47 103" fill="none" stroke="#d9c5dc" stroke-width="6" opacity=".75"/>
+<path d="M454 132l-8 80M589 135l37 76" fill="none" stroke="#fff" stroke-width="3" opacity=".5"/>
+<!-- body highlights -->
+<path d="M130 292c120-32 223-43 346-41 151 2 272 14 373 47" fill="none" stroke="#ffeaf2" stroke-width="8" opacity=".8"/>
+<path d="M156 321c181 18 445 20 657-3" fill="none" stroke="#f8d4e3" stroke-width="5" opacity=".65"/>
+<path d="M248 268l-36 43M705 255l51 46" stroke="#8d557d" stroke-width="4" opacity=".5"/>
+<!-- front and rear lights -->
+<path d="M117 291l60-18 20 9-5 14-70 15z" fill="#fff1f4" stroke="#9b6483" stroke-width="4"/>
+<path d="M782 279l57 19-7 20-58-12z" fill="#f9d5e4" stroke="#9b6483" stroke-width="4"/>
+<path d="M125 298l49-13M790 289l43 14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<!-- lower skirt / grille -->
+<path d="M152 350l603 3-22 22-546 3z" fill="#4a354c" opacity=".9"/>
+<path d="M183 355h65m395 0h72" stroke="url(#chrome)" stroke-width="5" stroke-linecap="round"/>
+<path d="M795 333l37 4-5 14-40-4" fill="#392a40"/>
+<!-- wheels -->
+<g><circle cx="285" cy="351" r="69" fill="#17141d"/><circle cx="285" cy="351" r="53" fill="url(#wheel)" stroke="url(#chrome)" stroke-width="5"/><circle cx="285" cy="351" r="12" fill="#d9c9db"/><g stroke="#d8c7da" stroke-width="5"><path d="M285 302v98M236 351h98M250 316l70 70M320 316l-70 70"/></g></g>
+<g><circle cx="699" cy="351" r="69" fill="#17141d"/><circle cx="699" cy="351" r="53" fill="url(#wheel)" stroke="url(#chrome)" stroke-width="5"/><circle cx="699" cy="351" r="12" fill="#d9c9db"/><g stroke="#d8c7da" stroke-width="5"><path d="M699 302v98M650 351h98M664 316l70 70M734 316l-70 70"/></g></g>
+<!-- tiny chrome details -->
+<path d="M370 235h85M487 235h70" stroke="#ffeef5" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+<path d="M535 291h64" stroke="#f6d7e5" stroke-width="3" stroke-linecap="round"/>
+<path d="M365 286h24" stroke="#f9e4ed" stroke-width="5" stroke-linecap="round"/>
+<path d="M850 335l17 2" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>
