@@ -15,7 +15,7 @@
 
 ## 🌷 Hello!
 
-I'm Siddhi, an Electronics & Communication Engineering graduate from Goa. My work sits around **technical support, API integrations, and troubleshooting** — the practical side of helping different applications and systems communicate with each other.
+I'm Siddhi, an Electronics & Communication Engineering graduate. My work sits around **technical support, API integrations, and troubleshooting** — the practical side of helping different applications and systems communicate with each other.
 
 I'm curious about what happens behind the screen: how a request travels across a network, how APIs exchange data, why an integration fails, and how we can use data to understand what's happening. That curiosity is what keeps pulling me deeper into Python, SQL, backend concepts, and data analytics.
 
